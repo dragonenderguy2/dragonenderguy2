@@ -1,17 +1,16 @@
-![open-standards development](https://media4.giphy.com/media/v1.Y2lkPTdiYzJhNDkwcXpxc2J5OWU4NHJuYTJ3NmVoemU4a2Ywc3l6ajEwd3k0bmVpbzJ1NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dWOX2c1nfEPS5Lf3WZ/giphy.gif)
-
 # Introduction
-Bienvenue sur mon profil GitHub ! Je suis dragonenderguy2, un développeur passionné par la technologie et l'innovation.
+Bonjour ! Je suis dragonenderguy2, un développeur passionné par la technologie et le design. J'aime créer des applications web et explorer de nouveaux langages de programmation.
 
 # Skills
-- Langages : Python, JavaScript, HTML, CSS
-- Frameworks : React, Django
-- Outils : Git, Docker
+- **Langages** : JavaScript, Python, HTML, CSS
+- **Frameworks** : React, Node.js, Django
+- **Outils** : Git, Docker, Visual Studio Code
+- **Bases de données** : MongoDB, PostgreSQL
 
 # Projects
-- **Projet A** : Application web pour la gestion de tâches.
-- **Projet B** : API RESTful pour un service de météo.
+- **MonPortfolio** : Un site web personnel pour afficher mes projets et compétences.
+- **Jeu de plateforme** : Un jeu 2D développé avec JavaScript et HTML5.
 
 # Contacts
-- Email : dragonenderguy2@example.com
-- LinkedIn : [linkedin.com/in/dragonenderguy2](https://linkedin.com/in/dragonenderguy2)
+- **Email** : dragonenderguy2@example.com
+- **Twitter** : [@dragonenderguy2](https://twitter.com/dragonenderguy2)
