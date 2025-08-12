@@ -1,16 +1,16 @@
-# Introduction
-Bonjour ! Je suis dragonenderguy2, un développeur passionné par la technologie et le design. J'aime créer des applications web et explorer de nouveaux langages de programmation.
+# dragonenderguy2
 
-# Skills
-- **Langages** : JavaScript, Python, HTML, CSS
-- **Frameworks** : React, Node.js, Django
-- **Outils** : Git, Docker, Visual Studio Code
-- **Bases de données** : MongoDB, PostgreSQL
+**Thème :** blockchain
 
-# Projects
-- **MonPortfolio** : Un site web personnel pour afficher mes projets et compétences.
-- **Jeu de plateforme** : Un jeu 2D développé avec JavaScript et HTML5.
+## À propos
+Focalisé sur blockchain.
 
-# Contacts
-- **Email** : dragonenderguy2@example.com
-- **Twitter** : [@dragonenderguy2](https://twitter.com/dragonenderguy2)
+## Tech
+- Python · Git · CI/CD
+- - blockchain
+- ethereum
+- solidity
+- smart-contracts
+
+## Liens
+- Profil : https://github.com/dragonenderguy2
